@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.login-page {
+    background-size: cover;
+    background-position: center;
+}
+
+footer a {
+    font-size: 20px;
+    margin: 0 15px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a:hover {
+    color: #00aaff;
+}
+
+h1, p {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+}
+
+.container {
+    max-width: 800px;
+}
+
+ul li {
+    margin: 10px 0;
+}
